@@ -131,12 +131,12 @@ Building and studying systems around **autonomous navigation, perception, contro
 
 ### GitHub
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=alocinnyy&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alocinnyy&layout=compact&hide_border=true" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alocinnyy&hide_border=true" />
 
 </div>
