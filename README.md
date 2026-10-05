@@ -137,6 +137,4 @@ Building and studying systems around **autonomous navigation, perception, contro
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alocinnyy&hide_border=true" />
-
 </div>
